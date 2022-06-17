@@ -1,0 +1,5 @@
+C:\Users\LAPTOP\source\repos\Assign\Assign\Debug\Assign.MyForm.resources
+C:\Users\LAPTOP\source\repos\Assign\Assign\Debug\Assign.vcxproj.GenerateResource.cache
+C:\Users\LAPTOP\OneDrive\Desktop\Delta Star GUI\Assign\Assign\Debug\Assign.vcxprojAssemblyReference.cache
+C:\Users\LAPTOP\OneDrive\Desktop\Delta Star GUI\Assign\Assign\Debug\Assign.MyForm.resources
+C:\Users\LAPTOP\OneDrive\Desktop\Delta Star GUI\Assign\Assign\Debug\Assign.vcxproj.GenerateResource.cache
